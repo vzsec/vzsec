@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello!
+I am a student interested in cybersecurity, networking, and infrastructure.
 
-<!--
-**vzsec/vzsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Focus:
+- Building and documenting my homelab
+- Studying for Network+ and Security+
+- Expanding my experience with Proxmox, Docker, Linux, and OPNsense
 
-Here are some ideas to get you started:
+## Projects:
+- Homelab: work in progress
+- Network Segmentation Project: work in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications:
+- CompTIA Tech+
+
+## Technologies:
+```Proxmox VE``` ```Docker``` ```Linux``` ```OPNsense``` ```Pi-hole``` ```Tailscale``` ```Wireshark```
